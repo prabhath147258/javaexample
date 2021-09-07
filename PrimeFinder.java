@@ -1,4 +1,4 @@
-package com.tc.training.java.prime;
+
 
 public class PrimeFinder {
 
